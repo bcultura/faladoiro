@@ -1,0 +1,25 @@
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes.dex : \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/speech/SpeechSynthesis.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/AudioPlayer$1.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/AudioHandler.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/AudioPlayer.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/AudioPlayer$STATE.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/AudioPlayer$MODE.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/org/apache/cordova/media/FileHelper.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/BuildConfig.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/R$xml.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/R$drawable.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/R$string.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/R.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/R$attr.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/asistente_voz/AsistenteVoz.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/BuildConfig.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/R$xml.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/R$drawable.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/Faladoiro.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/R$string.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/R.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/R$attr.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/classes/com/bcultura/faladoiro/AsistenteVoz.class \
+/var/www/workspace/faladoiro/platforms/android/ant-build/dexedLibs/classes-0bb253a94b828ca611a82fb9e9d9e45e.jar \

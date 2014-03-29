@@ -1,0 +1,22 @@
+/var/www/workspace/faladoiro/platforms/android/ant-gen/com/bcultura/faladoiro/R.java \
+ : /var/www/workspace/faladoiro/platforms/android/res/drawable-ldpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-ldpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-mdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-mdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/res/values/strings.xml \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-xhdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-xhdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/res/xml/config.xml \
+/var/www/workspace/faladoiro/platforms/android/res/drawable/icon.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-hdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/res/drawable-hdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-ldpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-mdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-xhdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable/icon.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/res/drawable-hdpi/screen.png \
+/var/www/workspace/faladoiro/platforms/android/ant-build/AndroidManifest.xml \

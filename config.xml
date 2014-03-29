@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bcultura.faladoiro" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Faladoiro</name>
+    <description>
+        Pizarra y asistente de voz para personas con algún tipo de disartría.
+    </description>
+    <author email="info@bcultura.com" href="http://bcultura.com">
+        B_cultura - tecnología para humanos
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="splashscreen" value="screen" />
+</widget>
